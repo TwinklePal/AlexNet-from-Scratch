@@ -1,0 +1,6 @@
+torch == 0.4.0
+numpy == 1.26.4
+nbimporter == 0.3.4
+torchvision == 0.2.1
+torchsummary == 1.5.1
+tqdm == 4.66.5
